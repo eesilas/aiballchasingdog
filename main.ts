@@ -225,6 +225,7 @@ huskylens.initMode(protocolAlgorithm.ALGORITHM_OBJECT_TRACKING)
 basic.showIcon(IconNames.Angry)
 basic.pause(1000)
 SuperBit.MotorStopAll()
+basic.showIcon(IconNames.Duck)
 basic.forever(function () {
     huskylens.request()
     basic.showIcon(IconNames.SmallHeart)

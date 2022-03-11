@@ -2,6 +2,7 @@
 > 在 [https://eesilas.github.io/aiballchasingdog/](https://eesilas.github.io/aiballchasingdog/) 打開此頁面
 
 ## 作為擴充功能使用
+## use HuskyLens
 
 可以在 MakeCode 中將此儲存庫新增為**擴充功能**。
 
